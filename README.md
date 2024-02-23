@@ -20,5 +20,10 @@ CS10 Lessons
 - [ ] Create all Basic Pages from Website Map and childPageTemplate.html
 - [ ] Change all HEAD Information in all Child Pages
 - [ ] Change all BODY Inforation in all Child Pages
+- [ ] Review all Example Pages and Copy them over to Sandbox
+- [ ] Introduce W3 Schools and Googling for learning more advanced techniques
+      - Note: learning from the Internet means you have a basic knoweledge
+- [ ] 
 - [ ] Set a Due Date and Submit
+- [ ] Create New Learning HTML Webiste from Sandbox
 - [ ] 
