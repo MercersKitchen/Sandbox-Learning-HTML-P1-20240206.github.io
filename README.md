@@ -9,9 +9,10 @@ CS10 Lessons
 - [x] childTemplate: Semantic Body Tags with Flex box (HTML references)
 - [x] childTemplate: Semantic .class with Flex Box
 - [x] research for Favorite Fonts: Google Fonts, https://fonts.google.com/
-- [ ] Create Child Template HTML Page for all future webpages using H, P, sub & superscript TAGs
+- [ ] Create Child Template HTML Page for all future webpages using H, P, A, sub & superscript TAGs
   - turn off vw units
   - H1 & H2 are different sizes in different semantic tags
+  - Demo which tags I use the most of in each section
   - Demonstrate how to research centering text with inline CSS
 - [ ] 
 - [ ] 
