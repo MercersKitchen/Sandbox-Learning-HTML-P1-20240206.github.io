@@ -10,10 +10,11 @@ CS10 Lessons
 - [x] childTemplate: Semantic .class with Flex Box
 - [x] research for Favorite Fonts: Google Fonts, https://fonts.google.com/
 - [ ] Create Child Template HTML Page for all future webpages using H, P, A, sub & superscript TAGs
-  - turn off vw units
-  - H1 & H2 are different sizes in different semantic tags
-  - Demo which tags I use the most of in each section
-  - Demonstrate how to research centering text with inline CSS
+  - [ ] turn off vw units
+  - [ ] H1 & H2 are different sizes in different semantic tags
+  - [ ] Demo which tags I use the most of in each section
+  - [ ] Demonstrate how to research centering text with inline CSS
+  - [ ] Notice how the FOOTER-tag moves around the Webpage as the template file changes
 - [ ] 
 - [ ] 
 - [ ] 
