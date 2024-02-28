@@ -9,19 +9,24 @@ CS10 Lessons
 - [x] childTemplate: Semantic Body Tags with Flex box (HTML references)
 - [x] childTemplate: Semantic .class with Flex Box
 - [x] research for Favorite Fonts: Google Fonts, https://fonts.google.com/
-- [ ] Create Child Template HTML Page for all future webpages using H, P, A, sub & superscript TAGs
-  - [ ] turn off vw units
-  - [ ] H1 & H2 are different sizes in different semantic tags
-  - [ ] Demo which tags I use the most of in each section
-  - [ ] Demonstrate how to research centering text with inline CSS
-  - [ ] Notice how the FOOTER-tag moves around the Webpage as the template file changes
+- [x] Create Child Template HTML Page for all future webpages using H, P, A, sub & sup script TAGs
+  - [x] turn off vw units
+  - [x] H1 & H2 are different sizes in different semantic tags
+  - [x] Demo which tags I use the most of in each section
+  - [x] Demonstrate how to research centering text with inline CSS
+  - [x] Notice how the FOOTER-tag moves around the Webpage as the template file changes
+  - [x] Add BR-Tags in one one
+  - [ ] Research how to CENTER text with CSS
 - [ ] 
+- [ ] Child Template with VW Units On
 - [ ] 
+- [ ] Choice of Child Template: VW or Non-VW
 - [ ] 
-- [ ] Header and Paragraph Tags
-- [ ] Sub and Superscript Tags
+- [ ] Document Map, Paper Copy
+- [ ] Must include all text
+- [ ] 
 - [ ] Images
-- [ ] Website Document Map
+- [ ] 
 - [ ] Finishing Child Template Page incluiding NAV from Website Map
 - [ ] Create all Basic Pages from Website Map and childPageTemplate.html
 - [ ] Change all HEAD Information in all Child Pages
