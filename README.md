@@ -41,7 +41,7 @@ CS10 Lessons
 
 ---
 
-# Documnet Map
+# Document Map
 - [x] Home Page
 - [ ] TextExperimental.html
 - [ ] ViewPortON.html
