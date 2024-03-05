@@ -42,5 +42,11 @@ CS10 Lessons
 ---
 
 # Documnet Map
+- [x] Home Page
+- [ ] TextExperimental.html
+- [ ] ViewPortON.html
+- [ ] MetaData.html
+- [ ] childTemplate.html
+- [ ] Images.html
 
 ---
