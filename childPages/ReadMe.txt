@@ -1,14 +1,15 @@
 
-<!-- Hyperlinks do not have any formating, use an unrgoanized list-->
+<!-- Hyperlinks do not have any formating, use an unrgoanized list -->
 
-<a>Home Page</a>
+Back to the Beginning: <a href="" target="_blank">Home Page</a>
 
-<a>TextExperimental</a>
+What each page should have: <a>MetaData</a>
 
-<a>ViewPortON</a>
+What is possible with text: <a>TextExperimental</a>
 
-<a>MetaData</a>
+A more powerful way of using font size in viewport: <a>ViewPortON</a>
 
-<a>childTemplate</a>
+What an image looks like: <a>Images</a>
 
-<a>Images</a>
+What each webpage will start with: <a>childTemplate</a>
+
