@@ -4,7 +4,7 @@
     <!-- Used by the Keyboard-->
     <meta charset="utf-8">
 
-    <title>Splash Page</title>
+    <title>Meta Data</title>
     <!-- Tab Favicon can be changed too, Google this-->
     <!-- See https://www.w3schools.com/howto/howto_html_favicon.asp , accessed 20240214-->
 
@@ -28,14 +28,14 @@
     <style>
         * {
             box-sizing: border-box;
-            font-size: 2vw;
+            //font-size: 2vw;
         }
         div { border: thin dotted red; }
 
         .header {
             border: 1px solid green;
             padding: 15px;
-            font-size: 4vw;
+            //font-size: 4vw;
         }
 
         .nav {
@@ -64,6 +64,13 @@
             border: 1px solid rgb(19, 0, 128);
         }
 
+        .section {
+            width: 100%;
+            float: left;
+            padding: 15px;
+            border: 1px solid rgb(19, 0, 128);
+        }
+
     </style>
 
     <noscript>Running JavaScript is not necessary in the HTML page ... FYI: your Feature to execute scripts is turned off.</noscript>
@@ -72,16 +79,58 @@
 
 <!-- Start here, BODY Semantic Tags-->
 <body>
-    <div></div>
-    <header class="header">Splash Page</header>
-    <nav class="nav">Navigation</nav>
-    <main class="main">MAIN: Important Material</main>
-    <aside class="class">Aside Space, supports MAIN Material</aside>
-    <section class="main">Section</section>
-    <article class="main">Article, Mostly text</article>
-    <footer calss="footer">Footer</footer>
+    <div>ViewPort Units are OFF</div>
+    <header class="header">
+        <h1 style="text-align: center;">Meta Data Page</h1>
+        <h3 style="text-align: center;">To View Look in Microsoft Visual COde Studio or GitHub Pencil Feature</h3>
+        <p>The meta data should change with each webpage.</p>
+    </header>
+    <nav class="nav">
+        <h3 style="text-align: center;">Navigation H-Tags, in h3</h3>
+        <a>Hyperlink, text only, in a-tag</a>
+        <p>Paragraph Tag, any writing</p>
+    </nav>
+    <main class="main">
+        <h1>MAIN, H-Tags, in h1</h1>
+        <h2>H2: text</h2>
+        <h3>H3: text</h3>
+        <h4>H4: text</h4>
+        <h5>H5: text</h5>
+        <h6>H6: text</h6>
+        <p>Paragraphs can include different types of <sup>big</sup> writing and <sub>small</sub> writing.</p>
+        <a>Hyperlink, text only, in a-tag</a>
+        <br><br>
+        <section class="section">
+                <h2>Section H-Tags, in h2</h2>
+                <h3>SubHeadings usually stop at H3, in h3</h3>
+                <p>H2 is the largest. Put anything in SECTION-tags, in p-tag</p>
+                <a>Hyperlink, text only, in a-tag</a>
+                <br><br>
+                <article class="section">
+                    <h2>Article H-Tags, in h2</h2>
+                    <h3>SubHeadings usually stop at H3, in h3</h3>
+                    <p>Writing Only in P-Tags</p>
+                    <a>Hyperlink, text only, in a-tag</a>
+                </article>
+         </section>
+    </main>
+    <aside class="aside">
+        <h2>Aside Space H-Tags, in h2</h2>
+        <h3>H3: text</h3>
+        <h4>H4: text</h4>
+        <h5>H5: text</h5>
+        <h6>H6: text</h6>
+        <p>Paragraph Tag</p>
+        <a>Hyperlink, text only, in a-tag</a>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <br><br><br><br><br><br><br><br><br>
+    </aside>
+    <footer class="footer" style="text-align: center;">
+        <h1>Footer H-Tags,in h1</h1>
+        <p>Paragraph Tag</p>
+    </footer>
 </body>
-<footer>
+<footer style="text-align: center;">
     <blockquote cite="">
         <!-- Date Accessed 20240214-->
     </blockquote>
