@@ -22,6 +22,8 @@ CS10 Lessons
 - [ ] 
 - [ ] Choice of Child Template: VW or Non-VW
 - [ ] 
+- [ ] NAV Section
+- [ ] 
 - [ ] Document Map, Paper Copy
 - [ ] Must include all text
 - [ ] 
@@ -37,6 +39,8 @@ CS10 Lessons
 - [ ] 
 - [ ] Set a Due Date and Submit
 - [ ] Create New Learning HTML Webiste from Sandbox
+- [ ] 
+- [ ] Summary of All HTML: https://github.com/QEHS-Websites/Introductory-HTML
 - [ ] 
 
 ---
