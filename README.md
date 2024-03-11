@@ -16,23 +16,16 @@ CS10 Lessons
   - [x] Demonstrate how to research centering text with inline CSS
   - [x] Notice how the FOOTER-tag moves around the Webpage as the template file changes
   - [x] Add BR-Tags in one one
-  - [ ] Research how to CENTER text with CSS
-- [ ] 
-- [ ] Child Template with VW Units On
-- [ ] 
+  - [x] Research how to CENTER text with CSS
+- [ ] Images Lesson, added to childTemplate
+- [ ] Child Template with VW Units On, rations finished
 - [ ] Choice of Child Template: VW or Non-VW
-- [ ] 
-- [ ] NAV Section
-- [ ] 
 - [ ] Document Map, Paper Copy
-- [ ] Must include all text
-- [ ] 
-- [ ] Images
-- [ ] 
-- [ ] Finishing Child Template Page incluiding NAV from Website Map
-- [ ] Create all Basic Pages from Website Map and childPageTemplate.html
 - [ ] Change all HEAD Information in all Child Pages
 - [ ] Change all BODY Inforation in all Child Pages
+- [ ] NAV Section Complete in childTemplate.html (VW ON or OFF)
+- [ ] Create all Basic Pages from Website Map and childPageTemplate.html (VW ON or OFF)
+
 - [ ] Review all Example Pages and Copy them over to Sandbox
 - [ ] Introduce W3 Schools and Googling for learning more advanced techniques
       - Note: learning from the Internet means you have a basic knoweledge
