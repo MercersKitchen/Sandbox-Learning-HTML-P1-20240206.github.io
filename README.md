@@ -25,6 +25,8 @@ CS10 Lessons
 - [ ] Change all BODY Inforation in all Child Pages
 - [ ] NAV Section Complete in childTemplate.html (VW ON or OFF)
 - [ ] Create all Basic Pages from Website Map and childPageTemplate.html (VW ON or OFF)
+- [ ] Folder (Pathway) structure complete
+- [ ] Mix of ```target="blank"``` and using browser navigation buttons
 
 - [ ] Review all Example Pages and Copy them over to Sandbox
 - [ ] Introduce W3 Schools and Googling for learning more advanced techniques
@@ -34,6 +36,8 @@ CS10 Lessons
 - [ ] Create New Learning HTML Webiste from Sandbox
 - [ ] 
 - [ ] Summary of All HTML: https://github.com/QEHS-Websites/Introductory-HTML
+- [ ] Include this in New Exemplar
+- [ ] Introduce DOMs: Javascript for writing HTML
 - [ ] 
 
 ---
