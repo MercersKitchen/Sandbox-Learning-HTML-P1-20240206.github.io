@@ -51,3 +51,12 @@ CS10 Lessons
 - [ ] Images.html
 
 ---
+
+# To Include
+- Music Player Repo, Final Submission can be the Promotions Website if this repo has ```.github.io```
+- index.html has nav links and MAIN description, nothing else
+- HTML Research: https://www.w3schools.com/html/
+- CSS Research: https://www.w3schools.com/css/
+- ADVANCED, JavaScript Research: https://www.w3schools.com/js/js_htmldom.asp
+
+---
