@@ -28,14 +28,14 @@
     <style>
         * {
             box-sizing: border-box;
-            //font-size: 2vw;
+            font-size: 2vw;
         }
-        div { border: thin dotted red; }
+        div { //border: thin dotted red; }
 
         .header {
             border: 1px solid green;
             padding: 15px;
-            //font-size: 4vw;
+            font-size: 4vw;
         }
 
         .nav {
@@ -71,6 +71,30 @@
             border: 1px solid rgb(19, 0, 128);
         }
 
+        .h1Header {
+            font-size: 6vw;
+        }
+
+        .h1Main {
+            font-size: 5vw;
+        }
+
+        .h2 {
+            font-size: 4vw;
+        }
+
+        .h3 {
+            font-size: 3vw;
+        }
+
+        .h4 {
+            font-size: 2vw;
+        }
+
+        .text {
+            font-size: 2vw;
+        }
+
     </style>
 
     <noscript>Running JavaScript is not necessary in the HTML page ... FYI: your Feature to execute scripts is turned off.</noscript>
@@ -79,18 +103,18 @@
 
 <!-- Start here, BODY Semantic Tags-->
 <body>
-    <div>ViewPort Units are OFF</div>
+    <div></div>
     <header class="header">
-        <h1 style="text-align: center;">Child Template Page</h1>
-        <h3 style="text-align: center;">Subtitle, H3</h3>
-        <p>Paragraph Tag, any writing</p>
+        <h1 class="h1Header" style="text-align: center;">Child Template Page</h1>
+        <h3 class="h3" style="text-align: center;">Subtitle, H3</h3>
+        <p class="text">Paragraph Tag, any writing</p>
         <p><img src="../Images/CSRMqeHead.tif" alt="" title="Place Holder Image" style="max-width:10%;height:auto;"></p>
     </header>
     <nav class="nav">
-        <h3 style="text-align: center;">Navigation</h3>
+        <h3 class="h3" style="text-align: center;">Navigation</h3>
         <!-- Hyperlinks do not have any formating, use unorganized or organized lists -->
 
-        <ul style="list-style-type:none;">
+        <ul class="text" style="list-style-type:none;">
             <!-- NONE removes symbol for list items-->
             <li>Back to the Beginning: <a href="../index.html" target="_blank">Home Page</a></li>
             <br>
@@ -122,9 +146,9 @@
 
     </nav>
     <main class="main">
-        <h1>MAIN, H-Tags, in h1</h1>
-        <h2>H2: text</h2>
-        <h3>H3: text</h3>
+        <h1 class="h1Main">MAIN, H-Tags, in h1</h1>
+        <h2 class="h2">H2: text</h2>
+        <h3 class="h3">H3: text</h3>
         <h4>H4: text</h4>
         <h5>H5: text</h5>
         <h6>H6: text</h6>
@@ -147,8 +171,8 @@
         </section>
     </main>
     <aside class="aside">
-        <h2>Aside Space H-Tags, in h2</h2>
-        <h3>H3: text</h3>
+        <h2 class="h2">Aside Space H-Tags, in h2</h2>
+        <h3 class="h3">H3: text</h3>
         <h4>H4: text</h4>
         <h5>H5: text</h5>
         <h6>H6: text</h6>
