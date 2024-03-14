@@ -29,13 +29,15 @@
         * {
             box-sizing: border-box;
             font-size: 2vw;
+            //Any text not formatted, like spaces;
         }
+
         div { //border: thin dotted red; }
 
         .header {
             border: 1px solid green;
             padding: 15px;
-            font-size: 4vw;
+            //font-size: 4vw;
         }
 
         .nav {
@@ -60,6 +62,8 @@
         }
 
         .footer {
+            width: 100%;
+            float: left;
             padding: 15px;
             border: 1px solid rgb(19, 0, 128);
         }
@@ -130,14 +134,14 @@
             <br>
         </ul>
 
-        <p>Use a text edittor to craft white text for the nav items.</p>
-        <p>Use "ol" with style="type="1|a|A|i|I;" if want numbered pages</p>
-        <p>
+        <p class="text">Use a text edittor to craft white text for the nav items.</p>
+        <p class="text">Use "ol" with style="type="1|a|A|i|I;" if want numbered pages</p>
+        <p class="text">
             Remember, the layout of li-tags & a-tags creates high contract with
             hyperlinked colour text.
             Some viewers struggle with low contrast text and colours.
         </p>
-        <p>
+        <p class="text">
             CAUTION: Use the DOC-Map to craft all the pages, using file names in childTemplate before creating the actual files.
             This will COPY/PASTE childTemplate to new pages with the same NAV Layout.
         </p>
@@ -149,55 +153,51 @@
         <h1 class="h1Main">MAIN, H-Tags, in h1</h1>
         <h2 class="h2">H2: text</h2>
         <h3 class="h3">H3: text</h3>
-        <h4>H4: text</h4>
-        <h5>H5: text</h5>
-        <h6>H6: text</h6>
-        <p>Paragraphs can include different types of <sup>big</sup> writing and <sub>small</sub> writing.</p>
-        <a>Hyperlink, text only, in a-tag</a>
+        <h4 class="h4">H4: text</h4>
+        <p class="text">Paragraphs can include different types of <sup>big</sup> writing and <sub>small</sub> writing.</p>
+        <a class="text">Hyperlink, text only, in a-tag</a>
         <p><img src="../Images/CSRMqeHead.tif" alt="" title="Place Holder Image" style="max-width:10%;height:auto;"></p>
         <br><br>
         <section class="section">
-            <h2>Section H-Tags, in h2</h2>
-            <h3>SubHeadings usually stop at H3, in h3</h3>
-            <p>H2 is the largest. Put anything in SECTION-tags, in p-tag</p>
-            <a>Hyperlink, text only, in a-tag</a>
+            <h2 class="h2">Section H-Tags, in h2</h2>
+            <h3 class="h3">SubHeadings usually stop at H3, in h3</h3>
+            <p class="text">H2 is the largest. Put anything in SECTION-tags, in p-tag</p>
+            <a class="text">Hyperlink, text only, in a-tag</a>
             <br><br>
             <article class="section">
-                <h2>Article H-Tags, in h2</h2>
-                <h3>SubHeadings usually stop at H3, in h3</h3>
-                <p>Writing Only in P-Tags</p>
-                <a>Hyperlink, text only, in a-tag</a>
+                <h2 class="h2">Article H-Tags, in h2</h2>
+                <h3 class="h3">SubHeadings usually stop at H3, in h3</h3>
+                <p class="text">Writing Only in P-Tags</p>
+                <a class="text">Hyperlink, text only, in a-tag</a>
             </article>
         </section>
     </main>
     <aside class="aside">
         <h2 class="h2">Aside Space H-Tags, in h2</h2>
         <h3 class="h3">H3: text</h3>
-        <h4>H4: text</h4>
-        <h5>H5: text</h5>
-        <h6>H6: text</h6>
-        <p>Paragraph Tag</p>
-        <a>Hyperlink, text only, in a-tag</a>
+        <h4 class="h4">H4: text</h4>
+        <p class="text">Paragraph Tag</p>
+        <a class="text">Hyperlink, text only, in a-tag</a>
         
-        <p><img src="../Images/QE_Esports_Reverse.png" alt="" title="Place Holder Image" style="max-width:10%;height:auto;"></p>
+        <p><img src="../Images/QE_Esports_Reverse.png" alt="" title="Place Holder Image" style="max-width:10%;height:auto;"></pclass="text">
 
         <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-        <br><br><br><br><br><br><br><br><br>
+        <br><br><br><br><br><br><br><br><br><br><br><br>
     </aside>
     <footer class="footer" style="text-align: center;">
-        <h1>Footer H-Tags,in h1</h1>
-        <p>Paragraph Tag</p>
+        <h1 class="h1">Footer H-Tags,in h1</h1>
+        <p class="text">Paragraph Tag</p>
     </footer>
 </body>
-<footer style="text-align: center;">
+<footer class="footer" style="text-align: center;">
     <blockquote cite="">
         <!-- Date Accessed 20240214-->
     </blockquote>
-    <p>
+    <p class="text">
         <strong>"Getting information off the Internet is like taking a drink from a firehose."</strong>
         <em>- Mitch Kapor</em>
     </p>
-    <p>&copy Mark Mercer, powered by MercersKitchen in GitHub</p>
+    <p class="text">&copy Mark Mercer, powered by MercersKitchen in GitHub</p>
     <!-- Other information possilbe like Number of Visitor, Location, author contract information-->
 </footer>
 </html>
